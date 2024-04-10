@@ -1,0 +1,35 @@
+Players:
+  bragoa:
+    HP: 0
+    LastDay: 1
+  ivelich350:
+    HP: 0
+    LastDay: 1
+    UUID: d2e30025-3fb2-352c-9ac7-b279fb2f79ee
+  HETERO2100:
+    HP: 0
+    LastDay: 1
+  Mr_PanckeisXD:
+    HP: 0
+    LastDay: 1
+    UUID: 7d5407a7-77c7-3230-87e4-6683f32ce64f
+    banCause: Mobs
+    banTime: '20:09:39'
+    banDay: '2024-04-09'
+    coords: 4 52 3
+  xCorruptedXx_:
+    HP: 0
+    LastDay: 1
+    UUID: 970f5850-28fb-3925-b38a-4aedf1e1fe25
+    banCause: Mobs
+    banTime: '20:57:56'
+    banDay: '2024-04-07'
+    coords: 9805 227 10041
+  iYooyo:
+    UUID: d722c61c-85be-3fb5-885e-585cab4d0e10
+    HP: 0
+    LastDay: 1
+    banCause: Causa desconocida.
+    banTime: 02:26:26
+    banDay: '2024-04-09'
+    coords: 4 104 3
